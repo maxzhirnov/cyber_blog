@@ -1,6 +1,7 @@
 --- 
 title: Letter to Future Self
-date: 2025-04-29
+date: 2026-04-29
+draft: true
 showToc: false
 ---
 
